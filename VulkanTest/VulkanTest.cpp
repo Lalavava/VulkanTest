@@ -84,7 +84,7 @@ int main()
 
 	vkDestroyInstance(inst,nullptr);
 	
-    //Ìí¼Ó×¢ÊÍ
+    //ĞŞ¸Ä×¢ÊÍ
     return 0;
 }
 
